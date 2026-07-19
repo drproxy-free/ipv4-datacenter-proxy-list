@@ -2,17 +2,17 @@
 
 [![Update Status](https://img.shields.io/badge/Updated-Weekly-blue.svg)](#)
 [![Proxy Protocol](https://img.shields.io/badge/Protocol-HTTP%20%7C%20SOCKS5-success.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-Welcome to **DrProxy**! This repository provides a curated, high-speed list of IPv4 Datacenter proxies. To ensure stability, all proxies require `User:Pass` authentication. 
+Welcome to **DrProxy**! This repository provides a curated, high-speed list of IPv4 Datacenter proxies. To ensure stability, all proxies require `User:Pass` authentication.
 
-🔄 **Update Frequency:** This proxy list is manually refreshed and verified **once every 7 days**. 
+🔄 **Update Frequency:** This proxy list is manually refreshed and verified **once every 7 days**.
 
 ## 🚀 Optimized For
 
 These IPv4 datacenter proxies are ideal for tasks that require stable IP rotation and fast response times:
 *   **Web Scraping & Data Extraction** (Python, Selenium, Puppeteer)
-*   **Anti-detect Browsers Integration**
+*   **E-commerce Automation & Account Maintenance** (Shopee, etc.)
+*   **Anti-detect Browsers Integration** (Pion Login, AdsPower, Multilogin)
 *   **SEO Monitoring & Bot Traffic**
 
 ## 📋 The Proxy List
@@ -20,10 +20,13 @@ These IPv4 datacenter proxies are ideal for tasks that require stable IP rotatio
 Proxies are provided in the standard format: `IP:Port:Username:Password`
 
 ```text
-# --- LAST UPDATED: [comming soon] ---
+# --- LAST UPDATED: [Coming Soon] ---
 
 # HTTP/HTTPS Proxies
-comming soon
+Coming soon...
+
+# SOCKS5 Proxies
+Coming soon...
 
 ```
 ⚠️ Important Disclaimer
