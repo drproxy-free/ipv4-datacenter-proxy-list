@@ -29,16 +29,21 @@ Coming soon...
 Coming soon...
 
 ```
-⚠️ Important Disclaimer
-*   **Please read this carefully before using the proxies provided in this repository:
-*   **Shared IP Risk: These are publicly shared proxies. Multiple users may access them simultaneously. Therefore, they might be temporarily rate-limited, flagged, or banned by high-security platforms (like Google or strict banking sites).
-*   **No Sensitive Data: Do NOT use these public proxies to log into personal bank accounts, primary email addresses, or any highly sensitive portals. We are not responsible for any data leaks, account bans, or security breaches resulting from the use of these IPs.
-*   **Intended Use: These IPs are strictly for educational purposes, open data scraping, testing automation scripts, and general anonymity. Any illegal activities are strictly prohibited.
+## ⚠️ Important Disclaimer
 
-🔗 Connect with DrProxy
-*   Stay updated with our latest proxy drops and automation tips:
+Please read this carefully before using the proxies provided in this repository:
 
-*   **📱 Telegram Channel: Coming Soon...
-*   **🐦 X (Twitter): Coming Soon...
-*   **🌐 Website: Coming Soon...
-*   **⭐ If you find this proxy list helpful, please give this repository a star!
+* **Shared IP Risk:** These are publicly shared proxies. Multiple users may access them simultaneously. Therefore, they might be temporarily rate-limited, flagged, or banned by high-security platforms (like Google or strict banking sites).
+* **No Sensitive Data:** Do NOT use these public proxies to log into personal bank accounts, primary email addresses, or any highly sensitive portals. We are not responsible for any data leaks, account bans, or security breaches resulting from the use of these IPs.
+* **Intended Use:** These IPs are strictly for educational purposes, open data scraping, testing automation scripts, and general anonymity. Any illegal activities are strictly prohibited.
+
+## 🔗 Connect with DrProxy
+
+Stay updated with our latest proxy drops and automation tips:
+
+* 📱 **Telegram Channel:** *Coming Soon...*
+* 🐦 **X (Twitter):** *Coming Soon...*
+* 🌐 **Website:** *Coming Soon...*
+
+---
+⭐ *If you find this proxy list helpful, please give this repository a star!*
