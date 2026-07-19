@@ -17,17 +17,10 @@ These IPv4 datacenter proxies are ideal for tasks that require stable IP rotatio
 ## 📋 The Proxy List
 
 Proxies are provided in the standard format: `IP:Port:Username:Password`
+Click the links below to view or download the weekly updated proxy lists:
 
-```text
-# --- LAST UPDATED: [Coming Soon] ---
+* 🇺🇸 **US Proxies:** [ipv4-us-proxies.txt](./ipv4-us-proxies.txt)
 
-# HTTP/HTTPS Proxies
-Coming soon...
-
-# SOCKS5 Proxies
-Coming soon...
-
-```
 ## ⚠️ Important Disclaimer
 
 Please read this carefully before using the proxies provided in this repository:
