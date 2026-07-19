@@ -33,7 +33,7 @@ comming soon
 *   **Intended Use: These IPs are strictly for educational purposes, open data scraping, testing automation scripts, and general anonymity. Any illegal activities are strictly prohibited.
 
 🔗 Connect with DrProxy
-Stay updated with our latest proxy drops and automation tips:
+*   Stay updated with our latest proxy drops and automation tips:
 
 *   **📱 Telegram Channel: Coming Soon...
 *   **🐦 X (Twitter): Coming Soon...
