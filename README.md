@@ -19,7 +19,7 @@ These IPv4 datacenter proxies are ideal for tasks that require stable IP rotatio
 Proxies are provided in the standard format: `IP:Port:Username:Password`
 Click the links below to view or download the weekly updated proxy lists:
 
-* 🇺🇸 **US Proxies:** [ipv4-us-proxies.txt](./ipv4-us-proxies.txt)
+* :us: **US Proxies:** [ipv4-us-proxies.txt](./ipv4-us-proxies.txt)
 
 ## ⚠️ Important Disclaimer
 
