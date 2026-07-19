@@ -22,8 +22,6 @@ These IPv4 datacenter proxies are ideal for tasks that require stable IP rotatio
 * ** <img src="https://flagcdn.com/w20/us.png" width="18" align="center" alt="US Flag"> **US Proxies:** [ipv4-us-proxies.txt](./ipv4-us-proxies.txt)
 * ** <img src="https://flagcdn.com/w20/de.png" width="18" align="center" alt="Germany"> **Germany Proxies:** [ipv4-germany-proxies.txt](./ipv4-germany-proxies.txt)
 * ** <img src="https://flagcdn.com/w20/br.png" width="18" align="center" alt="Brazil"> **Brazil Proxies:** [ipv4-brazil-proxies.txt](./ipv4-brazil-proxies.txt)
-* ** <img src="https://flagcdn.com/w20/fr.png" width="18" align="center" alt="France"> **France Proxies:** [ipv4-france-proxies.txt](./ipv4-france-proxies.txt)
-* ** <img src="https://flagcdn.com/w20/it.png" width="18" align="center" alt="Italy"> **Italy Proxies:** [ipv4-italy-proxies.txt](./ipv4-italy-proxies.txt)
 * ** <img src="https://flagcdn.com/w20/gb.png" width="18" align="center" alt="UK"> **UK Proxies:** [ipv4-uk-proxies.txt](./ipv4-uk-proxies.txt)
 * ** <img src="https://flagcdn.com/w20/ca.png" width="18" align="center" alt="Canada"> **Canada Proxies:** [ipv4-canada-proxies.txt](./ipv4-canada-proxies.txt)
 
