@@ -11,8 +11,7 @@ Welcome to **DrProxy**! This repository provides a curated, high-speed list of I
 
 These IPv4 datacenter proxies are ideal for tasks that require stable IP rotation and fast response times:
 *   **Web Scraping & Data Extraction** (Python, Selenium, Puppeteer)
-*   **E-commerce Automation & Account Maintenance** (Shopee, etc.)
-*   **Anti-detect Browsers Integration** (Pion Login, AdsPower, Multilogin)
+*   **Anti-detect Browsers Integration**
 *   **SEO Monitoring & Bot Traffic**
 
 ## 📋 The Proxy List
