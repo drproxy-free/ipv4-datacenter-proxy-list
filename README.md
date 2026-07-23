@@ -37,7 +37,7 @@ Please read this carefully before using the proxies provided in this repository:
 
 Stay updated with our latest proxy drops and automation tips:
 
-* 📱 **Telegram Channel:** *Coming Soon...*
+* 📱 **Telegram Channel:** [*Coming Soon...*](https://t.me/drproxynet)
 * 🐦 **X (Twitter):** *Coming Soon...*
 * 🌐 **Website:** *Coming Soon...*
 
