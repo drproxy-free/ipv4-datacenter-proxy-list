@@ -2,7 +2,7 @@
 
 [![Update Status](https://img.shields.io/badge/Updated-Weekly-blue.svg)](#)
 [![Proxy Protocol](https://img.shields.io/badge/Protocol-HTTP%20%7C%20SOCKS5-success.svg)](#)
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=drproxy-free&repo=ipv4-datacenter-proxy-list&countColor=%230e75b6)(#)
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=drproxy-free&repo=ipv4-datacenter-proxy-list&countColor=%230e75b6)
 
 Welcome to **DrProxy**! This repository provides a curated, high-speed list of IPv4 Datacenter proxies. To ensure stability, all proxies require `User:Pass` authentication.
 
